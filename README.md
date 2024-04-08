@@ -2,7 +2,7 @@
 We aim to develop a Python-based web scraper that collects real estate listings from various websites. By inputting search criteria such as location, price range, and desirable home features (e.g., number of bedrooms, bathrooms, and square footage), users will receive tailored home recommendations. Our minimum viable product (MVP) will provide a straightforward list of homes that match the specified criteria, while our stretch goals include developing a more sophisticated recommendation algorithm, creating a user-friendly web interface, and integrating with mapping APIs for enhanced location-based searches.
 
 # Team:
-adrien schaal
+adrien schaal &
 Moises Yi
 # Learning Objectives
 1. **Primary Objective:** Learn to construct and deploy a Python-based web scraper that can navigate and extract data from real estate websites efficiently.
