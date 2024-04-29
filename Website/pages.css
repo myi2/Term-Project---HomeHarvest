@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h1 {
+    color: white;
+    font-family: Courier New;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+    font-family: Courier New;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    color: white;
+    font-family: Courier New;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+p {
+    color: white;
+    font-family: Courier New;
+    text-align: center;
+    font-size: 20px;
+}
+
+table {
+    color: white;
+    font-family: Courier New;
+    text-align: center;
+    font-size: 20px;
+    width: 35%;
+}
+
+ul {
+    color: white;
+    font-family: Courier New;
+    text-align: left;
+    font-size: 20px;
+}
