@@ -48,6 +48,8 @@ By streamlining the property search process, HomeHarvest aims to empower users, 
 
 1. **Open the Application**
    - Start by navigating to the HomeHarvest application in your web browser.
+     
+![Web Solution Interface](https://raw.githubusercontent.com/myi2/oim3640/main/helloflask/Final_Project_Website/Web_Solution.jpg "Enter Details to Scrape Properties")
 
 2. **Enter Your Details**
    - Fill in each field with the appropriate information:
@@ -62,6 +64,8 @@ By streamlining the property search process, HomeHarvest aims to empower users, 
 
 4. **View Your Results**
    - After clicking the `Scrape Properties` button, the application will process your request and provide you with a downloadable file containing all the real estate listings that meet your specified criteria.
+
+![Web Solution Interface](https://raw.githubusercontent.com/myi2/oim3640/main/helloflask/Final_Project_Website/Web_Solution_&_download.jpg "Enter Details to Scrape Properties")
 
 Make sure to input accurate information to get the best results tailored for you. Happy house hunting!
 ## Technical Setup
